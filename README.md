@@ -9,23 +9,15 @@ Multi-Cloud DevSecOps Engineer | AWS | Azure | GCP
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rashmi-ranjan-panigrahy-526338251/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rashmi%20Ranjan%20Panigrahy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rashmiranjanDevOps&label=Profile%20Views&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/rashmi-ranjan-panigrahy-526338251/"> </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,gitlab,github,maven,nginx,prometheus,grafana,linux,git" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
 </p>
 
 ---
@@ -33,8 +25,8 @@ Multi-Cloud DevSecOps Engineer | AWS | Azure | GCP
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjanDevOps&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjanDevOps&layout=compact&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjanDevOps&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjanDevOps&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
