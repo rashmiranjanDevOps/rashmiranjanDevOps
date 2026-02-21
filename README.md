@@ -8,7 +8,10 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,gitlab,github,maven,nginx,apache,tomcat,prometheus,grafana,linux,git" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,gitlab,github,maven,nginx,prometheus,grafana,linux,git" />
+
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
 
 </p>
 
