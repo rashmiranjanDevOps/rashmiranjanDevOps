@@ -20,3 +20,16 @@
 </p>
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/rashmiranjanDevOps/rashmiranjanDevOps/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 🚀 Featured DevSecOps Projects
+
+🔹 Modular 3-Tier AWS Infrastructure using Terraform  
+🔹 Kubernetes Microservices Deployment (EKS)  
+🔹 End-to-End CI/CD Pipeline (Jenkins + SonarQube + Trivy + Docker)  
+🔹 GitOps Deployment using ArgoCD  
+🔹 DevSecOps Security Integration (OWASP + Trivy)  
