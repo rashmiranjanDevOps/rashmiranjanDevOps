@@ -22,22 +22,13 @@ Multi-Cloud DevSecOps Engineer | AWS | Azure | GCP
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rashmiranjanDevOps&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rashmiranjanDevOps&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rashmiranjanDevOps&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-## 🏗 DevOps Architecture Expertise
+## DevOps Architecture Expertise
 Developer → GitHub/GitLab
 ↓
 Jenkins CI Pipeline
@@ -51,4 +42,28 @@ Kubernetes Deployment (EKS)
 GitOps (ArgoCD)
 ↓
 Monitoring (Prometheus + Grafana)
+
+---
+
+---
+
+## Featured Projects
+
+🔹 **[3-Tier AWS Infrastructure using Terraform](https://github.com/rashmiranjanDevOps/3-tier-aws-terraform)**  
+Modular, production-ready VPC, ALB & Auto Scaling architecture.
+
+🔹 **[Kubernetes Microservices Deployment (EKS)](https://github.com/rashmiranjanDevOps/kubernetes-microservices-project)**  
+Containerized application deployed using Kubernetes best practices.
+
+🔹 **[DevSecOps CI/CD Pipeline](https://github.com/rashmiranjanDevOps/jenkins-ci-cd-pipeline)**  
+Jenkins + SonarQube + Trivy + Docker automation.
+
+🔹 **[GitOps Deployment with ArgoCD](https://github.com/rashmiranjanDevOps/gitops-argocd-project)**  
+Declarative Kubernetes deployment with GitOps workflow.
+
+---
+
+<p align="center">
+<b>Automate. Secure. Scale.</b>
+</p>
 
