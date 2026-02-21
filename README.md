@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rashmi%20Ranjan%20Panigrahy&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer;DevSecOps+Practitioner;Terraform+%7C+Kubernetes+%7C+Ansible;CI%2FCD+Automation+Specialist;Always+Learning+Always+Building" />
 </p>
 
 <h2 align="center">🚀 Multi-Cloud DevSecOps Engineer | AWS | Azure | GCP</h2>
