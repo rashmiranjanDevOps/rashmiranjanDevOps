@@ -27,9 +27,10 @@ Multi-Cloud DevSecOps Engineer | AWS | Azure | GCP
 
 ## GitHub Activity
 
+# Hi 👋 I'm Rashmi Ranjan
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjanDevOps&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjanDevOps&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjanDevOps&show_icons=true&cache_seconds=30" />
 </p>
 
 ## DevOps Architecture Expertise
