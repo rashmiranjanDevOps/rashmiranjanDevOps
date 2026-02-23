@@ -28,12 +28,8 @@ Multi-Cloud DevSecOps Engineer | AWS | Azure | GCP
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjanDevOps&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjanDevOps&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmiranjanDevOps&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmiranjanDevOps&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmiranjanDevOps&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ## DevOps Architecture Expertise
