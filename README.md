@@ -55,10 +55,7 @@ Monitoring (Prometheus + Grafana)
 🔹 **[3-Tier AWS Infrastructure using Terraform](https://github.com/rashmiranjanDevOps/3-tier-aws-terraform)**  
 Modular, production-ready VPC, ALB & Auto Scaling architecture.
 
-🔹 **[Kubernetes GitOps Deployment with ArgoCD](https://github.com/rashmiranjanDevOps/student-datastore-ci-cd.git)**  
-Containerized application deployed using Kubernetes best practices.
-
-🔹 **[DevSecOps CI/CD Pipeline](https://github.com/rashmiranjanDevOps/jenkins-ci-cd-pipeline)**  
+🔹 **[End-to-End CI/CD Pipeline for Microservices](https://github.com/rashmiranjanDevOps/student-datastore-ci-cd.git)**  
 Jenkins + SonarQube + Trivy + Docker automation.
 
 🔹 **[GitOps Deployment with ArgoCD](https://github.com/rashmiranjanDevOps/gitops-argocd-project)**  
