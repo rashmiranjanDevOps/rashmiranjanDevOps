@@ -55,7 +55,7 @@ Monitoring (Prometheus + Grafana)
 🔹 **[3-Tier AWS Infrastructure using Terraform](https://github.com/rashmiranjanDevOps/3-tier-aws-terraform)**  
 Modular, production-ready VPC, ALB & Auto Scaling architecture.
 
-🔹 **[Kubernetes Microservices Deployment (EKS)](https://github.com/rashmiranjanDevOps/kubernetes-microservices-project)**  
+🔹 **[Kubernetes GitOps Deployment with ArgoCD](https://github.com/rashmiranjanDevOps/student-datastore-ci-cd.git)**  
 Containerized application deployed using Kubernetes best practices.
 
 🔹 **[DevSecOps CI/CD Pipeline](https://github.com/rashmiranjanDevOps/jenkins-ci-cd-pipeline)**  
