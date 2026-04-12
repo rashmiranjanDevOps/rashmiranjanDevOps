@@ -58,7 +58,7 @@ Modular, production-ready VPC, ALB & Auto Scaling architecture.
 🔹 **[End-to-End CI/CD Pipeline for Microservices](https://github.com/rashmiranjanDevOps/student-datastore-ci-cd.git)**  
 Jenkins + SonarQube + Trivy + Docker automation.
 
-🔹 **[GitOps Deployment with ArgoCD](https://github.com/rashmiranjanDevOps/gitops-argocd-project)**  
+🔹 **[Production-Grade Microservices Platform on AWS EKS](https://github.com/rashmiranjanDevOps/datastore-eks-k8s.git)**  
 Declarative Kubernetes deployment with GitOps workflow.
 
 ---
