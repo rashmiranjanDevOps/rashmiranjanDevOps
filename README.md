@@ -52,14 +52,12 @@ Monitoring (Prometheus + Grafana)
 
 ## Featured Projects
 
-🔹 **[3-Tier AWS Infrastructure using Terraform](https://github.com/rashmiranjanDevOps/3-tier-aws-terraform)**  
-Modular, production-ready VPC, ALB & Auto Scaling architecture.
+🔹 **[TaskFlow — Production-Grade SaaS Deployment on AWS EKS](https://github.com/rashmiranjanDevOps/employee-task-tracker.git)**  
+Full-stack SaaS app deployed to AWS EKS across 4 environments using Terraform, ArgoCD GitOps, and a Jenkins CI/CD pipeline with SonarQube & Trivy security gates.
 
-🔹 **[End-to-End CI/CD Pipeline for Microservices](https://github.com/rashmiranjanDevOps/student-datastore-ci-cd.git)**  
-Jenkins + SonarQube + Trivy + Docker automation.
+🔹 **[AgenticOps — AI-Driven AWS Diagnostics & Remediation Platform]()**  
+Terraform-provisioned AWS EC2 fleet with an AI agent that diagnoses Prometheus alerts and requests human approval before any remediation action.
 
-🔹 **[Production-Grade Microservices Platform on AWS EKS](https://github.com/rashmiranjanDevOps/datastore-eks-k8s.git)**  
-Declarative Kubernetes deployment with GitOps workflow.
 
 ---
 
